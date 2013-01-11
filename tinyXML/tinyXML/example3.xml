@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<shapes>
+	<circle name="int-base" x="20" y="30" r="50" />
+	<point name="float-base" x="3.5" y="52.1" />
+</shapes>
